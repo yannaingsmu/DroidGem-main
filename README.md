@@ -24,7 +24,7 @@ The three phases of DroidGem are:
 
 ## Execution
 
-Clone this repository to your computer and make sure android-30 sdk platform is downloaded in your android sdk directory and use your andorid sdk dir as input parameter for "runapm.sh".
+Clone this repository to your computer and make sure android-30 sdk platform is downloaded in your android sdk directory, and use your andorid sdk directory as input parameter for "runapm.sh".
 
 ```sh
  sh runapm.sh "./your_android_sdk_dir"
